@@ -1,0 +1,4 @@
+﻿  EdgeDetection.cpp
+C:\Users\AhmtMtlu\Desktop\OpenCV Projects\EdgeDetection\EdgeDetection\EdgeDetection.cpp(50,26): error C2664: 'void CannyThreshold(int,void *)': cannot convert argument 2 from 'int' to 'void *'
+C:\Users\AhmtMtlu\Desktop\OpenCV Projects\EdgeDetection\EdgeDetection\EdgeDetection.cpp(50,23): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\AhmtMtlu\Desktop\OpenCV Projects\EdgeDetection\EdgeDetection\EdgeDetection.cpp(25,6): message : see declaration of 'CannyThreshold'
